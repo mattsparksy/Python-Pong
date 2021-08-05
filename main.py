@@ -1,7 +1,14 @@
 import pygame
 import sys
 import random
-import time
+import time 
+
+import keyboard 
+
+if w == True:
+    print("print")
+    
+
 
 last_frame = 0
 
